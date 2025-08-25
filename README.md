@@ -3,8 +3,7 @@
 Germination detection and classification of cotton seeds.
 
 ## Demo
-![Demo](demo.gif)  
-*(click image to see full video)*
+https://youtu.be/ND4zWlc05s0
 
 ## Overview
 - Preprocessing pipeline for plant images
