@@ -31,5 +31,7 @@ Features:
 
 ---
 
-## Directory Structure
+## Contact
+For questions or collaborations, reach out via GitHub.
+
 
