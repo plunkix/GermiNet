@@ -6,7 +6,7 @@
 [![GermiNet Demo](https://img.youtube.com/vi/ND4zWlc05s0/0.jpg)](https://youtu.be/ND4zWlc05s0)
 
 ## Overview
-GermiNet is a pipeline for detecting and classifying germinated cotton seeds in images, built to tackle the challenges of high-instance, field-collected datasets.
+GermiNet is a pipeline for detecting and classifying germinated cotton seeds in images, built to tackle the challenges of high-instance, field-collected datasets with high accuracy.
 
 Features:
 - Preprocessing pipeline for seed images  
